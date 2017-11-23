@@ -4,7 +4,7 @@ echo "Please enter your search term (i.e 'dog+jumping'). Please change spaces fo
 
 read TEXT
 
-echo "Please enter how many images you want x 500:"
+echo "Please enter how many images you want (which will be multipled by 500, so if you enter 10, you will get 5000)"
 
 read PAGES
 
